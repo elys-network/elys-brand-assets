@@ -17,4 +17,4 @@ The brand materials contained in this repository are intended for use in officia
 
 ## Contact Information
 
-If you have any questions about the Elys brand materials contained in this repository, please contact the Elys brand department at brand@elys.network.
+If you have any questions about the Elys brand materials contained in this repository, please contact the Elys team  team@elys.network.
