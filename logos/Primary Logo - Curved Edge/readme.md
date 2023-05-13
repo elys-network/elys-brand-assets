@@ -1,0 +1,1 @@
+Primary Logo - Curved Edge
