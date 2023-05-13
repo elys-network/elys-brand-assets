@@ -1,0 +1,1 @@
+Secondary Logo - Sharp Edge
