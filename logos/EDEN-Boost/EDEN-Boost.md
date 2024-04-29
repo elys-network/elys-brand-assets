@@ -1,1 +1,1 @@
-EDEN-Boost logos
+- EDEN-Boost logos
