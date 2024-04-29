@@ -1,12 +1,11 @@
-Directory contents
+# Directory Contents
 
-Logo files in .ai, .eps, .pdf, and .png formats
+**Logo files** available in various formats:
 
-Primary Logo (curved edge) - recommended version
-Seconday Logo (sharp edge)
-Token-logo - version used for cosmos chain registy
+- **Primary Logo** (curved edge) - *recommended version*
+- **Secondary Logo** (sharp edge)
+- **Token-logo** - version used for Cosmos Chain Registry
 
-Additional resources:
+**Additional Resources:**
 
-Elys Logo artwork - resources for Eden design
-
+- Elys Logo artwork - resources for Eden design
