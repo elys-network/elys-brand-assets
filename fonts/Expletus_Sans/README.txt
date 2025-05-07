@@ -22,16 +22,14 @@ in those cases you can use the static font files for Expletus Sans:
   static/ExpletusSans-SemiBoldItalic.ttf
   static/ExpletusSans-BoldItalic.ttf
 
-Get started
------------
+Getting Started
+---------------
 
-1. Install the font files you want to use
+1. Installation: Begin by installing the font files of your choice.
+2. Font Selection: Utilize your application's font picker to explore the available styles within the Expletus Sans font family.
 
-2. Use your app's font picker to view the font family and all the
-available styles
-
-Learn more about variable fonts
--------------------------------
+Learn more about variable fonts, Here are some resources to dive deeper:
+------------------------------------------------------------------------
 
   https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts
   https://variablefonts.typenetwork.com
@@ -59,13 +57,12 @@ Android Apps
   https://developers.google.com/fonts/docs/android
   https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
 
-License
--------
-Please read the full license text (OFL.txt) to understand the permissions,
-restrictions and requirements for usage, redistribution, and modification.
+License information
+-------------------
+License 
 
-You can use them in your products & projects – print or digital,
-commercial or otherwise.
+Please review the full license text (OFL.txt) included in the package to understand the permissions, restrictions, and requirements 
+for usage, redistribution, and modification. 
 
-This isn't legal advice, please consider consulting a lawyer and see the full
-license for all details.
+You are free to use these fonts in your products and projects, whether print or digital, for commercial or non-commercial purposes. 
+However, for specific legal advice, it's advisable to consult a lawyer and thoroughly read the license agreement.
